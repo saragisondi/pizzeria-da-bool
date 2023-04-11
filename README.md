@@ -41,3 +41,4 @@ Ogni scheda deve avere:
 - Sviluppare il motore di ricerca per nome
 - Creare un form per il **create** della pizza
 - Creare un form per l' **edit** della pizza
+
